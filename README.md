@@ -8,6 +8,10 @@
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/yonggekkk/argosb/main/argosb.sh)
 ```
+脚本如下vavacc，默认安装为Argo临时隧道（UUID、主协议vmess端口未设变量时，为随机生成）
+```
+bash <(wget -qO- https://raw.githubusercontent.com/vavacc/argosb/main/argosb.sh)
+```
 或者
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/argosb/main/argosb.sh)
